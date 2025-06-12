@@ -1,0 +1,36 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de entorno y credenciales
+.env
+.venv
+env/
+venv/
+ENV/
+credentials.json
+
+# Archivos de datos y cache
+.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
