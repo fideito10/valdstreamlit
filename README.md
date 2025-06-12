@@ -19,8 +19,8 @@ Esta aplicación permite extraer datos de la API de VALD Performance y guardarlo
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/fideito10/vald.git
-cd vald
+git clone https://github.com/fideito10/valdstreamlit.git
+cd valdstreamlit
 ```
 
 2. Instala las dependencias:
@@ -50,7 +50,7 @@ La aplicación se abrirá en tu navegador donde podrás:
 ## 📊 Estructura del proyecto
 
 ```
-vald-extracion-app/
+valdstreamlit/
 ├── app.py                  # Aplicación principal con Streamlit
 ├── credentials.json        # Credenciales de Google (no incluido en el repo)
 ├── requirements.txt        # Dependencias del proyecto
