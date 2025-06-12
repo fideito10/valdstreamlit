@@ -4,7 +4,6 @@ from utils.extractor import run_extraction
 import os
 import sys
 import io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 
 
